@@ -1,0 +1,2 @@
+name: "values-test"
+message: "Esto es el mensaje que debe tener el configmap"
