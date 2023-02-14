@@ -3,6 +3,16 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-02-14T01:45:27.913666112Z"
+    description: A Helm chart for Kubernetes
+    digest: 1ce8b313e54a99132bcb7ffbc946c225705fc8d2bee5da0253d2a0f5dad8a8d4
+    name: my-chart
+    type: application
+    urls:
+    - https://github.com/marcobfj/test-charts/releases/download/my-chart-0.3.0/my-chart-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-02-14T01:35:44.100720359Z"
     description: A Helm chart for Kubernetes
     digest: 347c570df22c61b26db13cba6ce70fdfcca19b9384f916388c05d177e9eac5a3
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/marcobfj/test-charts/releases/download/my-chart-0.1.0/my-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-14T01:35:44.100727659Z"
+generated: "2023-02-14T01:45:27.913845222Z"
